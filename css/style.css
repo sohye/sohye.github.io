@@ -7584,16 +7584,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-header .navbar-brand {
   text-align: center;
-  font-weight: bold;
+  font-weight: 400;
   display: block;
   float: none !important;
   width: 200px;
   margin: 0 auto;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   font-size: 24px;
-  font-family: "Montserrat", arial, sans-serif;
-  color: #818892;
+  font-family: "Hanna", sans-serif;
 }
 #fh5co-header .navbar-brand:hover {
   color: #404040;
